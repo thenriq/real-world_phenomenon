@@ -12,3 +12,5 @@ The four variables analysed were:
 - PERFORMANCE (0 to 500)
 - GRADE: 4th and 8th
 - SUBJECTS: Portuguese and Math
+
+[Source: Anpec.org.br](http://www.anpec.org.br/encontro2008/artigos/200807201800160-.pdf)
