@@ -13,4 +13,6 @@ The four variables analysed were:
 - GRADE: 4th and 8th
 - SUBJECTS: Portuguese and Math
 
+All tasks regarding to this project can be found into the jupyter notebook called Real_World_Phenomenon.ipynb
+
 [Source: Anpec.org.br](http://www.anpec.org.br/encontro2008/artigos/200807201800160-.pdf)
